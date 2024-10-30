@@ -1,5 +1,5 @@
 [![sdasdasd](https://github.com/user-attachments/assets/5c788b0c-e3be-4b9c-8bca-99426ece8338)
-]() 
+](https://github.com/8KGK/Redesigned-site-for-KKTENAU/issues/1) 
 
 
 1. Download the archive from website and extract it to a convenient folder.
